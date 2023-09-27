@@ -118,7 +118,7 @@ Prepare
 Python
 ~~~~~~
 
-Odoo requires **Python 3.7** or later to run.
+Odoo requires **Python 3.10** or later to run.
 
 .. tabs::
 
